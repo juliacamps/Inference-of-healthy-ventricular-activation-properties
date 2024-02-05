@@ -1,7 +1,4 @@
 # Inference of healthy ventricular activation properties
-Bayesian-based inference method for the estimation of human ventricular activation properties from electrocardiographic data. 
-This repository contains the code developed for the following study published in **Medical Image Analysis**: 
+This repository contains the code developed for the study: _Inference of ventricular activation properties from non-invasive electrocardiography_
 
-Inference of ventricular activation properties from non-invasive electrocardiography. 
-
-https://doi.org/10.1016/j.media.2021.102143
+Published in **Medical Image Analysis**: https://doi.org/10.1016/j.media.2021.102143
